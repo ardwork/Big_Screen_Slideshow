@@ -1,0 +1,14 @@
+{
+	"type": "mashup",
+	"name": "Big_Screen_Slideshow",
+	"description": "Basic responsive mashup template",
+	"version": "1.0.0",
+	"author": "Rich Byard",
+	"homepage": "https://community.qlik.com/people/ryy",
+	"keywords": "qlik-sense, visualization, mashup, slideshow, carousel",
+	"license": "MIT",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
