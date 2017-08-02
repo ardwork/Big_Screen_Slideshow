@@ -1,5 +1,7 @@
 <h2>Qlik Sense Big Screen Slideshow</h2>
-Use Qlik Sense to present a carousel slideshow using a mashup.
+Use Qlik Sense to present a carousel slideshow using a mashup.<br>
+<br>
+<img src="https://github.com/ardwork/Big_Screen_Slideshow/blob/master/img/Slideshow.gif">
 <br>
 <h3>Steps to make it work for you</h3>
 <ul>
