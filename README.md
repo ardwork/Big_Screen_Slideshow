@@ -11,7 +11,7 @@ Use Qlik Sense to present a carousel slideshow using a mashup.<br>
 </li>
 <li>Open a second dev-hub to edit the mashup and open the HTML script part (you can also make this change using any other text editor).<br>
 Replace the identified iframe references with those you have copied in the previous step.<br>
-<img src="https://github.com/ardwork/Big_Screen_Slideshow/blob/master/img/SingleConfigurator.png">
+<img src="https://github.com/ardwork/Big_Screen_Slideshow/blob/master/img/UpdateHTML.png">
 </li>
 <li>If you wish to have more than 3 slides, add in additional <div class="mySlides fade"> sections. You will also need to add an additional <span class="dot"></span> to the section below the slides to ensure things the number of dots is consitent with the number of slides.<br>
 <img src="https://github.com/ardwork/Big_Screen_Slideshow/blob/master/img/DotUpdate.png">
